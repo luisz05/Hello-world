@@ -1,2 +1,4 @@
 # Hello-world
-Primeros pasos
+
+first steps in programming
+ready ....
